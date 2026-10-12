@@ -12,4 +12,8 @@ adapt it under their own brand without visible SmiCut attribution, while keeping
 copyright and license notices with the distributed software.
 
 Browse each project's README for local use, WordPress embedding and contributions.
-Hosted AI services are separate from the software license.
+Hosted AI services are separate from the software license. For Material Selector
+access on your website, email [oliver@smicut.se](mailto:oliver@smicut.se?subject=Material%20Selector%20website%20access)
+with your company, website address(es), program and language. No API key is needed
+after website approval. See the guides for [SmiCalc](https://github.com/SmiCut/smicalc/blob/main/MATERIAL_SELECTOR.md)
+and [SmiProg](https://github.com/SmiCut/smiprog/blob/main/MATERIAL_SELECTOR.md).
